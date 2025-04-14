@@ -168,7 +168,7 @@ Use the `mcp_agent.py` to create and manage Model Context Protocol (MCP) servers
 
 ## License
 
-[Choose an appropriate open-source license]
+Use for Study only. 
 
 ## Contact
 
