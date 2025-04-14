@@ -4,7 +4,11 @@
 
 Cognisphere is an advanced Agent Development Kit (ADK) that provides sophisticated memory and narrative capabilities for AI applications. Built on top of Google's ADK, Cognisphere introduces a unique approach to AI interaction by focusing on memory, context, and narrative evolution.
 
-### Core Philosophical Principles
+
+## There are Lot of .txt in the root directory, those are ADK, OpenRouter LiteLLM Documentation... 
+
+
+### VIBE
 
 "When you give memories, you give history. And with history, comes identity. And with identity… comes choice."
 
