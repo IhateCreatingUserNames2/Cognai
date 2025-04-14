@@ -1,0 +1,30 @@
+# Core ADK and Google Libraries
+google-adk>=0.1.0
+google-generativeai>=0.3.0
+
+# LLM and Model Integration
+litellm>=1.30.0
+openrouter-python>=0.1.0
+
+# Web Framework
+flask>=2.1.0
+
+# Database and Storage
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# Utility Libraries
+python-dotenv>=0.21.0
+numpy>=1.22.0
+pydantic>=2.0.0
+
+# Development and Testing
+pytest>=7.0.0
+asyncio>=3.4.3
+
+# Optional: For advanced embedding and processing
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# Note: Specific versions may need adjustment based on 
+# the latest releases and compatibility
