@@ -1,4 +1,4 @@
-# Cognisphere ADK: Cognitive Architecture for AI Agents
+# Cognisphere ADK: Agent Development Kit Architecture for AI Agents
 
 ## Overview
 
