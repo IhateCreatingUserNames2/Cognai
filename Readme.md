@@ -47,7 +47,7 @@ Organizes experiences into coherent storylines:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-org/cognisphere-adk.git
+git clone https://github.com/IhateCreatingUserNames2/cognisphere-adk.git
 cd cognisphere-adk
 ```
 
