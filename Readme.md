@@ -192,5 +192,6 @@ WebUI
 
 
 PREVIEW PLUS Identity Agent 
-![image](https://github.com/user-attachments/assets/51eaacc3-e9a6-436a-afc4-9bd4e9794bc1)
+![image](https://github.com/user-attachments/assets/a4bf538e-8d3d-4101-a8be-9c599332a7d4)
+
 
