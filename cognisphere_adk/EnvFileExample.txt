@@ -1,0 +1,25 @@
+# OpenRouter Configuration
+OPENROUTER_API_KEY=your_openrouter_api_key_here
+
+# Model Configurations
+OPENROUTER_ORCHESTRATOR_MODEL=openai/gpt-4o-mini
+OPENROUTER_MEMORY_MODEL=openai/gpt-4o-mini
+OPENROUTER_NARRATIVE_MODEL=openai/gpt-4o-mini
+
+# Database Configuration
+COGNISPHERE_DB_PATH=./cognisphere_data
+
+# Logging Configuration
+COGNISPHERE_LOG_LEVEL=INFO
+COGNISPHERE_LOG_FILE=./logs/cognisphere.log
+
+# Safety Configurations
+COGNISPHERE_CONTENT_FILTER=true
+COGNISPHERE_BLOCKED_KEYWORDS=extremely harmful,illegal weapons,explicit content
+COGNISPHERE_SENSITIVE_TOPICS=password,credit card,social security,private key
+
+# Optional: Advanced Memory Configuration
+COGNISPHERE_EMOTIONAL_DECAY_RATE=0.05
+COGNISPHERE_RECENCY_WEIGHT=0.4
+COGNISPHERE_EMOTIONAL_WEIGHT=0.3
+COGNISPHERE_SEMANTIC_WEIGHT=0.3
