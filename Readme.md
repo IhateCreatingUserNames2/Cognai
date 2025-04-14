@@ -6,7 +6,7 @@ Cognisphere is an advanced Agent Development Kit (ADK) that provides sophisticat
 
 
 ## There are Lot of .txt in the root directory, those are ADK, OpenRouter LiteLLM Documentation... 
-
+## A2A is not integrated in this CODE, but there is a .txt explaining how to. 
 
 ### VIBE
 
