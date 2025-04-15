@@ -194,4 +194,7 @@ WebUI
 PREVIEW PLUS Identity Agent 
 ![image](https://github.com/user-attachments/assets/a4bf538e-8d3d-4101-a8be-9c599332a7d4)
 
+NEW MCP Integration:
+![image](https://github.com/user-attachments/assets/6f946ca0-ef24-48a4-8baf-ac3c3f02ef8a)
+
 
